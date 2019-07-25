@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MvpTemplate</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_study">Study</string>
+    <string name="title_compose">Compose</string>
+    <string name="title_discovery">Discovery</string>
+    <string name="title_me">Me</string>
+</resources>
